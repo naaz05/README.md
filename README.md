@@ -1,26 +1,33 @@
-# README.md
-# Hi there, I'm Naaz! 👋
+# Hi, I'm Naazdeep Kaur 👋
 
-🎓 Web design & development IT Student  
-💻 Aspiring Front-End Developer | HTML, CSS, WordPress  
-🌐 Check out my portfolio: [naazrahal.com](https://naazrahal.com)  
+**I build it. Then I get it discovered.**
 
----
+🎨 Digital Marketer & Graphic Designer
+🎓 Second-year Web Design & Development student at NAIT
+🌐 Portfolio: [naazrahal.com](https://naazrahal.com/)
+
+I turn ideas into websites and visuals with a creative eye and a marketer's mindset, and I care about getting them found.
 
 ## Skills & Tools
-- **Web Development:** HTML, CSS, Basic JavaScript, WordPress  
-- **Design:** Adobe Illustrator, Creative Design Concepts  
-- **Other Tools:** Git, GitHub, Canva  
 
----
+- **Marketing:** SEO and AEO fundamentals, digital marketing, social media marketing, Google Analytics
+- **Design:** Photoshop, Illustrator, Figma, Canva
+- **Web:** HTML5, CSS3, JavaScript, Bootstrap, WordPress
+- **Tools:** VS Code, Git, GitHub
+
+## Projects
+
+- **[Aromatic Cardamom](https://aromaticcardamom.netlify.app/):** a content website built from scratch, then promoted with SEO and Google Analytics
+- **Portfolio website:** [[add repo link](https://naazrahal.com/)]
+- **Personal branding logo:** [[add link if you want it here](https://naazrahal.com/project-1.html)]
 
 ## About Me
-😄 Pronouns: She/Her  
-🎨 Passionate about creating harmonious digital experiences  
-💡 Always learning new ways to combine design and technology  
 
----
+- 😄 Pronouns: She/Her
+- 🎨 Passionate about creating thoughtful, harmonious digital experiences
+- 💡 Always learning new ways to combine design, technology and marketing
 
 ## Contact Me
-- LinkedIn: www.linkedin.com/in/naazdeep-kaur 
-- Email: kaurnaazdeep80@gmail.com
+
+- LinkedIn: [naazdeep-kaur](https://www.linkedin.com/in/naazdeep-kaur)
+- Email: [kaurnaazdeep80@gmail.com](mailto:kaurnaazdeep80@gmail.com)
