@@ -18,8 +18,8 @@ I turn ideas into websites and visuals with a creative eye and a marketer's mind
 ## Projects
 
 - **[Aromatic Cardamom](https://aromaticcardamom.netlify.app/):** a content website built from scratch, then promoted with SEO and Google Analytics
-- **Portfolio website:** [Click here to see what i made(https://naazrahal.com/)]
-- **Personal branding logo:** [Wanna have a look?(https://naazrahal.com/project-1.html)]
+- **Portfolio website:** [Click here to see what i made](https://naazrahal.com/)
+- **Personal branding logo:** [Wanna have a look?](https://naazrahal.com/project-1.html)
 
 ## About Me
 
